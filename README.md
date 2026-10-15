@@ -1,5 +1,7 @@
 # 第八歩道橋 — The Eighth Overpass
 
+[▶ ブラウザで遊ぶ](https://kj-games-sama-nada.github.io/the-eighth-overpass/)
+
 一人称の観察型ループホラーゲーム。夕暮れの歩道橋を渡り、日常への出口を探します。
 
 ## 遊び方
